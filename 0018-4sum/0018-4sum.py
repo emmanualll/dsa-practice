@@ -4,6 +4,12 @@ class Solution:
         res, quad = [], []
 
         def ksum(k, start, target):
+            if nums[start] * k > target:
+                return
+            
+            if nums[-1] * k < target:
+                return
+                
             if k != 2:
                 for i in range(start, len(nums)-k+1):
                     if i > start and nums[i] == nums[i - 1]:

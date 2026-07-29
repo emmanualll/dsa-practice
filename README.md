@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/emmanualll/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/emmanualll/dsa-practice/tree/master/0013-roman-to-integer) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/emmanualll/dsa-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String
 |  |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/emmanualll/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/emmanualll/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/emmanualll/dsa-practice/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/emmanualll/dsa-practice/tree/master/0013-roman-to-integer) |
 ## Sliding Window
 |  |
 | ------- |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/emmanualll/dsa-practice/tree/master/0994-rotting-oranges) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/emmanualll/dsa-practice/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->

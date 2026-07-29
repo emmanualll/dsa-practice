@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/emmanualll/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/emmanualll/dsa-practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/emmanualll/dsa-practice/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/emmanualll/dsa-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/emmanualll/dsa-practice/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/emmanualll/dsa-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->

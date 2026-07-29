@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/emmanualll/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/emmanualll/dsa-practice/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/emmanualll/dsa-practice/tree/master/0018-4sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/emmanualll/dsa-practice/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/emmanualll/dsa-practice/tree/master/0018-4sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/emmanualll/dsa-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/emmanualll/dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/emmanualll/dsa-practice/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/emmanualll/dsa-practice/tree/master/0018-4sum) |
 | [0994-rotting-oranges](https://github.com/emmanualll/dsa-practice/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |

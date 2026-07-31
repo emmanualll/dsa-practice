@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/emmanualll/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/emmanualll/dsa-practice/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/emmanualll/dsa-practice/tree/master/0037-sudoku-solver) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/emmanualll/dsa-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String
 |  |
@@ -71,11 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/emmanualll/dsa-practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/emmanualll/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/emmanualll/dsa-practice/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/emmanualll/dsa-practice/tree/master/0037-sudoku-solver) |
 | [0994-rotting-oranges](https://github.com/emmanualll/dsa-practice/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/emmanualll/dsa-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/emmanualll/dsa-practice/tree/master/0037-sudoku-solver) |
 | [0994-rotting-oranges](https://github.com/emmanualll/dsa-practice/tree/master/0994-rotting-oranges) |
 ## Math
 |  |
@@ -113,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/emmanualll/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/emmanualll/dsa-practice/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->

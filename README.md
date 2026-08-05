@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/emmanualll/dsa-practice/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/emmanualll/dsa-practice/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/emmanualll/dsa-practice/tree/master/0050-powx-n) |
 ## Trie
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/emmanualll/dsa-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/emmanualll/dsa-practice/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/emmanualll/dsa-practice/tree/master/0050-powx-n) |
 ## Binary Search Tree
 |  |
 | ------- |

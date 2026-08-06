@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/emmanualll/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/emmanualll/dsa-practice/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/emmanualll/dsa-practice/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/emmanualll/dsa-practice/tree/master/0051-n-queens) |
 | [0994-rotting-oranges](https://github.com/emmanualll/dsa-practice/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/emmanualll/dsa-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Matrix
@@ -137,4 +138,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/emmanualll/dsa-practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/emmanualll/dsa-practice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/emmanualll/dsa-practice/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/emmanualll/dsa-practice/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/emmanualll/dsa-practice/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->

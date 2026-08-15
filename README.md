@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/emmanualll/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/emmanualll/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/emmanualll/dsa-practice/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/emmanualll/dsa-practice/tree/master/0062-unique-paths) |
 ## Tree
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/emmanualll/dsa-practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/emmanualll/dsa-practice/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/emmanualll/dsa-practice/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/emmanualll/dsa-practice/tree/master/0062-unique-paths) |
 ## Trie
 |  |
 | ------- |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/emmanualll/dsa-practice/tree/master/0056-merge-intervals) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/emmanualll/dsa-practice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

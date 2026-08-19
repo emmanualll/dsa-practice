@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/emmanualll/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/emmanualll/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/emmanualll/dsa-practice/tree/master/0038-count-and-say) |
+| [0072-edit-distance](https://github.com/emmanualll/dsa-practice/tree/master/0072-edit-distance) |
 ## Sliding Window
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/emmanualll/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/emmanualll/dsa-practice/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/emmanualll/dsa-practice/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/emmanualll/dsa-practice/tree/master/0072-edit-distance) |
 ## Tree
 |  |
 | ------- |

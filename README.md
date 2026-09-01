@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/emmanualll/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/emmanualll/dsa-practice/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/emmanualll/dsa-practice/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/emmanualll/dsa-practice/tree/master/0073-set-matrix-zeroes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/emmanualll/dsa-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/emmanualll/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/emmanualll/dsa-practice/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/emmanualll/dsa-practice/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/emmanualll/dsa-practice/tree/master/0073-set-matrix-zeroes) |
 | [0994-rotting-oranges](https://github.com/emmanualll/dsa-practice/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/emmanualll/dsa-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Matrix
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/emmanualll/dsa-practice/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/emmanualll/dsa-practice/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/emmanualll/dsa-practice/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/emmanualll/dsa-practice/tree/master/0073-set-matrix-zeroes) |
 | [0994-rotting-oranges](https://github.com/emmanualll/dsa-practice/tree/master/0994-rotting-oranges) |
 ## Math
 |  |

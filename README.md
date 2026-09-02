@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/emmanualll/dsa-practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/emmanualll/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/emmanualll/dsa-practice/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/emmanualll/dsa-practice/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/emmanualll/dsa-practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/emmanualll/dsa-practice/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/emmanualll/dsa-practice/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/emmanualll/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/emmanualll/dsa-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/emmanualll/dsa-practice/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/emmanualll/dsa-practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/emmanualll/dsa-practice/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/emmanualll/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0994-rotting-oranges](https://github.com/emmanualll/dsa-practice/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/emmanualll/dsa-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Matrix

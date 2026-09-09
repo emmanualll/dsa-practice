@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/emmanualll/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/emmanualll/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/emmanualll/dsa-practice/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/emmanualll/dsa-practice/tree/master/0090-subsets-ii) |
 | [0994-rotting-oranges](https://github.com/emmanualll/dsa-practice/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/emmanualll/dsa-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Matrix
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/emmanualll/dsa-practice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/emmanualll/dsa-practice/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/emmanualll/dsa-practice/tree/master/0051-n-queens) |
+| [0090-subsets-ii](https://github.com/emmanualll/dsa-practice/tree/master/0090-subsets-ii) |
 ## Algorithm X
 |  |
 | ------- |
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/emmanualll/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/emmanualll/dsa-practice/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->

@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/emmanualll/dsa-practice/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/emmanualll/dsa-practice/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/emmanualll/dsa-practice/tree/master/0073-set-matrix-zeroes) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/emmanualll/dsa-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/emmanualll/dsa-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/emmanualll/dsa-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/emmanualll/dsa-practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/emmanualll/dsa-practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/emmanualll/dsa-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/emmanualll/dsa-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/emmanualll/dsa-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/emmanualll/dsa-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/emmanualll/dsa-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/emmanualll/dsa-practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/emmanualll/dsa-practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/emmanualll/dsa-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/emmanualll/dsa-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/emmanualll/dsa-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/emmanualll/dsa-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/emmanualll/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/emmanualll/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/emmanualll/dsa-practice/tree/master/0090-subsets-ii) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/emmanualll/dsa-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0994-rotting-oranges](https://github.com/emmanualll/dsa-practice/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/emmanualll/dsa-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Matrix
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/emmanualll/dsa-practice/tree/master/0053-maximum-subarray) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/emmanualll/dsa-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Quicksort
 |  |
 | ------- |

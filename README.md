@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/emmanualll/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/emmanualll/dsa-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/emmanualll/dsa-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/emmanualll/dsa-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/emmanualll/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/emmanualll/dsa-practice/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/emmanualll/dsa-practice/tree/master/0072-edit-distance) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/emmanualll/dsa-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/emmanualll/dsa-practice/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/emmanualll/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/emmanualll/dsa-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/emmanualll/dsa-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Binary Tree
 |  |
 | ------- |
@@ -236,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/emmanualll/dsa-practice/tree/master/0090-subsets-ii) |
+## Greedy
+|  |
+| ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/emmanualll/dsa-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 <!---LeetCode Topics End-->

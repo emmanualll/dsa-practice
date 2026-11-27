@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/emmanualll/dsa-practice/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/emmanualll/dsa-practice/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/emmanualll/dsa-practice/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/emmanualll/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Tree
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/emmanualll/dsa-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/emmanualll/dsa-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/emmanualll/dsa-practice/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/emmanualll/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0994-rotting-oranges](https://github.com/emmanualll/dsa-practice/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/emmanualll/dsa-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Matrix

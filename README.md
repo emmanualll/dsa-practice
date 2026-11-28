@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/emmanualll/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/emmanualll/dsa-practice/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/emmanualll/dsa-practice/tree/master/0072-edit-distance) |
+| [0131-palindrome-partitioning](https://github.com/emmanualll/dsa-practice/tree/master/0131-palindrome-partitioning) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/emmanualll/dsa-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Sliding Window
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/emmanualll/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/emmanualll/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/emmanualll/dsa-practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/emmanualll/dsa-practice/tree/master/0131-palindrome-partitioning) |
 ## Tree
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/emmanualll/dsa-practice/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/emmanualll/dsa-practice/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/emmanualll/dsa-practice/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/emmanualll/dsa-practice/tree/master/0131-palindrome-partitioning) |
 ## Algorithm X
 |  |
 | ------- |

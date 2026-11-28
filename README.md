@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/emmanualll/dsa-practice/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/emmanualll/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/emmanualll/dsa-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/emmanualll/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/emmanualll/dsa-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/emmanualll/dsa-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## String
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/emmanualll/dsa-practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/emmanualll/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/emmanualll/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/emmanualll/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0994-rotting-oranges](https://github.com/emmanualll/dsa-practice/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/emmanualll/dsa-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Matrix
@@ -268,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/emmanualll/dsa-practice/tree/master/0124-binary-tree-maximum-path-sum) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/emmanualll/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
